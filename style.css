@@ -1,0 +1,119 @@
+body
+{
+	font-family:arial;
+	font-size: medium;
+}
+
+
+
+.bouton
+{
+ -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 30px;
+  background: #f2f2f2;
+  padding: 16px 16px 14px 20px;
+  border: solid #565859 1px;
+  text-decoration: none;
+  width: 1000px;
+  text-align: center;
+  margin: auto;
+
+}
+
+header
+{
+    
+    float: right;
+}
+
+.center
+{
+  margin-left:auto;
+margin-right:auto; 
+   text-align: center;
+}
+
+.center:over
+{
+color:red;
+text-decoration:none;
+}
+
+.recadre
+{ margin: 50px 2px 2px 2px }
+
+p.bordure
+{
+    border-radius: 10px;
+}
+
+.encadrer 
+{
+  -webkit-border-radius: 3;
+  -moz-border-radius: 3;
+  border-radius: 3px;
+  font-family: Arial;
+  color: #848587;
+  font-size: 13px;
+  background: #ededed;
+  padding: 10px 20px 10px 20px;
+  border: solid #cfcfcf 0px;
+  text-decoration: none;
+
+}
+
+footer {
+	position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+footer:over 
+{
+color:red;
+text-decoration:none;
+}
+
+.testrouge:over
+{
+color:red;
+text-decoration:none;
+}
+
+
+
+.adroite
+{
+	position :absolute;
+	float: : right;
+	bottom:0;
+	margin-left: 1050px;
+}
+
+.adroite:over
+{
+color:red;
+text-decoration:none;
+}
+
+
+.f1
+{
+	text-align: right;
+	    display: flex;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+     float: right;
+}
